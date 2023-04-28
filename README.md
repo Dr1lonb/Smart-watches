@@ -20,4 +20,4 @@ A Page developed from a given design made by a Ux/Ui designer,build by using htm
 
 <img width="893" alt="Screenshot 2023-04-28 194106" src="https://user-images.githubusercontent.com/116200199/235218716-355ec355-1358-4a29-b782-8db36b42d793.png">
 
-<img width="948" alt="Screenshot 2023-04-28 194125" src="https://user-images.githubusercontent.com/116200199/235218763-fac7538a-e27e-4837-8a53-c192886221f4.png">
+<img width="944" alt="Screenshot 2023-04-28 200338" src="https://user-images.githubusercontent.com/116200199/235221127-c36323da-a001-41af-8de7-323b7dae89e8.png">
