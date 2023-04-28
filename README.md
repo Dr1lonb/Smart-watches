@@ -7,7 +7,7 @@ A Page developed from a given design made by a Ux/Ui designer,build by using htm
 # Languages and Utilities Used
  - HTML
  - CSS 
- - JS
+ - JS for Swipper
  - FIGMA
  
  # Website walk-through:
